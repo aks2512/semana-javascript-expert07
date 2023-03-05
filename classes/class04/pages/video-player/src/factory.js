@@ -40,9 +40,9 @@ async function getWorker() {
 }
 
 const worker = await getWorker();
-const videoUrl = `${rootPath}/assets/video.mp4`
 const view = new View();
 const [rootPath] = window.location.href.split('/pages/')
+const videoUrl = `${rootPath}/assets/video.mp4`
 view.setVideoSrc(videoUrl)
 
 const camera = await Camera.init();
