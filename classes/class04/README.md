@@ -11,6 +11,8 @@ Marque esse projeto com uma estrela 🌟
 
 - Este projeto foi criado usando Node.js v19.6
 
+## Live demo
+- Para testar o projeto final [clique aqui](https://aks2512.github.io/semana-javascript-expert07/classes/class04/)
 ## Running
 
 - Execute `npm ci` para restaurar os pacotes
@@ -32,7 +34,7 @@ Marque esse projeto com uma estrela 🌟
 ### Desafios
 - [] - Aula 01 - Diferenciar piscada de olhos entre olho direito e esquerdo e atualizar log para mostrar qual olho que piscou.
 - [] - Aula 02 - Reconhecer gestos de mãos individuais e printar no log
-- [] - Aula 03 - Corrigir Banner de titulo de video, para ficar atrás do desenho das mãos e se tornar clicável
+- [x] - Aula 03 - Corrigir Banner de titulo de video, para ficar atrás do desenho das mãos e se tornar clicável
 - [] - Aula 04 - Usar as mãos virtuais também no Video Player
 
 ### Considerações
